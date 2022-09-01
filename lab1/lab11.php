@@ -10,7 +10,7 @@
     <?php
         //Declaramos dos variables tipo String, que luego almacenaremos en otra para concatenar los dos valores.
         //Por ultimo imprimimos la variable que contiene la concatenacion
-        $ini = "Hola";
+        $ini = "Hola ";
         $fin = "a todos";
         $todo = $ini.$fin;
         echo $todo;
