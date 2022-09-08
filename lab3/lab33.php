@@ -34,7 +34,7 @@
             ?>
             <form action="lab33.php" method="post">
                 Nombre: <input type="text" name="Nombre"><br>
-                Apellido: <inputtype="text" name="Apellido"><br>
+                Apellido: <input type="text" name="Apellido"><br>
                 <input type="submit" name="enviar" value="Enviar Datos">
             </form>
     <?php
