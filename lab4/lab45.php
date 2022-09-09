@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <form action="Lab46.php" method="post">
+    <form action="Lab45.php" method="post">
         <label>Introduzca un valor par: </label>
         <input type="number" name="num" id="">
         <button type="submit" name="send">Enviar</button>
