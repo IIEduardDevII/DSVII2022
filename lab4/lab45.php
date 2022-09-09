@@ -30,7 +30,7 @@
             }
         } else {
             
-            header('location: Lab46.php');
+            header('location: Lab45.php');
         }
     }
     ?>
