@@ -38,7 +38,8 @@ if (is_uploaded_file ($_FILES['nombre_archivo_cliente']['tmp_name']))
             }
                 move_uploaded_file($_FILES['nombre_archivo_cliente']['tmp_name'], $nombreDirectorio.$nombre_archivo);
                 echo "Archivo subido satisfactoriamente al directorio <br>";
-    } else {
+    } else 
+    {
     echo "El archivo no es del tipo ($tipo_archivo) o volumen permitido ($vol_archi Kb)";
     }
 
