@@ -9,6 +9,7 @@ $num = (int)$_POST["num"];
             for ($i = 0; $i < $tam; $i++) {
                 echo "<tr>";
 
+                
                 for ($j = 0; $j < $tam; $j++) {
                     echo "<td>";
                     if ($i == $j) {
