@@ -1,4 +1,5 @@
 <?php
+
 class cliente {
     var $nombre;
     var $numero;

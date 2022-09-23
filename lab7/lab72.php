@@ -6,4 +6,5 @@
     $class2 = new ClaseConcreta2;
     $class2->printOut();
     echo $class2->prefixValor('FOO_') ."<br>";
+    
 ?>
