@@ -3,7 +3,7 @@
 
     class noticia extends modeloCredencialesBD{
         protected $titulo;
-        protected $texto;
+    protected $texto;
         protected $categoria;
         protected $fecha;
         protected $imagen;
