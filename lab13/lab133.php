@@ -16,7 +16,7 @@
            echo
            "<h2>Bienvenido Invitado!</h2><br/>";
     ?>
-    <a href="lab131.php">...Regresar</a>$nbsp;
+    <a href="lab131.php">...Regresar</a>
     <a href="lab134.php">Continuar...</a>
 </body>
 </html>

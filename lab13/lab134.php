@@ -25,7 +25,7 @@
             echo"<h3>La cookie 'contador' no existe</h3><br/>";    
         }
         ?>
-    <a href="lab131.php">Volver alñ contador de visitas</a>$nbsp;
+    <a href="lab131.php">Volver al contador de visitas</a>;
     <a href="lab134.php">Volver al saludo a usuario</a>
 </body>
 </html>

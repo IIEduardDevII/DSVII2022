@@ -23,9 +23,9 @@
             print("<br>Hola </br>".$_COOKIE["user"]."<br> Gracias por visitar nuestro sitio Web.</br>");
         } else {
     ?>
-    <form name="formcookie" method="post" action="lab142.php">
+    <form name="formcookie" method="post" action="lab132.php">
         <br/>Hola, primera vez que te vemos por nuestro sitio web ¿Como te llamas?
-        <input type="text" name="visitantes">
+        <input type="text" name="visitante">
         <input name="enviar" value="Gracias por identificarte" type="submit" /><br/>
     <?php
         }
